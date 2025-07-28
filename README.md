@@ -251,5 +251,3 @@ $ git standup -a "John Doe" -d 5
 ```
 
 ## License
-
-MIT © [Kamran Ahmed](http://kamranahmed.info)
